@@ -1,0 +1,49 @@
+*{
+    width: 500px;
+    padding: 0px;
+    margin: 10px;
+    
+    
+    
+   
+}
+.container{
+    width: 200px;
+    height: 500px;
+    background-color:wheat;
+    padding: 10px;
+    
+}
+#hi{
+    width: 180px;
+   height: 150px;
+   background-color:rgb(18, 218, 18);
+   border-radius: 100px;
+   
+    
+}
+#bye{
+    width: 180px;
+    height:150px ;
+    margin: 10px;
+    background-color: orange;
+    border-radius: 150px;
+}
+#hlo{
+    width: 180px;
+    height: 150px;
+    background-color: red;
+    border-radius: 150px;
+    padding:0px;
+}
+#reddy{
+    background-color: black;
+    width: 10px;
+    margin: 30px 90px 10px;
+    height: 100px;
+    padding: 2px;
+    
+    align-items: ce;
+    
+    
+}
